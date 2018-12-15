@@ -1,0 +1,15 @@
+html, body, #wpt-container {
+	width:100%;height:100%; padding:0; margin:auto;
+}
+.wpt .el-collapse-item__header{
+	display: none;
+}
+.el-collapse-item__content div > .wpt-section:nth-child(1){
+	display: none;
+}
+.el-collapse-item__content div > .wpt-section:nth-child(2){
+	display: none;
+}
+.el-collapse-item__content div > .wpt-section:nth-child(3){
+	display: none;
+}
